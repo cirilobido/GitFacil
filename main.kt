@@ -3,5 +3,5 @@ fun main(args: Array<String>) {
 }
 
 fun subscribe() {
-    print("Suscribete!")
+    print("Suscribete a mi canal!")
 }
