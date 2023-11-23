@@ -1,3 +1,3 @@
 fun main(args: Array<String>) {
-    print("Git, fácil y rápido!")
+    print("Aprende Git, fácil y rápido!")
 }
